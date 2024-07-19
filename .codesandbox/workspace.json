@@ -1,0 +1,32 @@
+{
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.terminalUpgrade",
+          "hideOnEmbedPage": true,
+          "hideOnPrem": true
+        },
+        {
+          "id": "codesandbox.tests"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "id": "codesandbox.console"
+        },
+        {
+          "id": "codesandbox.problems"
+        },
+        {
+          "id": "codesandbox.react-devtools"
+        }
+      ]
+    }
+  ]
+}
